@@ -1,0 +1,13 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+@import url(https://fonts.googleapis.com/css?family=Lora);
+$font-family-sans-serif: 'Lora', serif;
+$body-bg:   	#D1DADA;
+$btn-primary-bg:     #D4EC88;
+$navbar-inverse-bg:     #148996;
+$navbar-inverse-brand-bg: black;
+$navbar-inverse-color:  red;
+$navbar-inverse-height:  60px;
+$jumbotron-bg:     white;
+@import 'bootstrap';
